@@ -1,0 +1,30 @@
+{
+  "name": "network-feed",
+  "version": "0.0.1",
+  "description": "Feed from social networks",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xoRajika/Network-feed.git"
+  },
+  "keywords": [
+    "node",
+    "facebook",
+    "twitter"
+  ],
+  "author": "Rajika Imal <inbox.rajika@gmail.com> (http://xoRajika.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xoRajika/Network-feed/issues"
+  },
+  "homepage": "https://github.com/xoRajika/Network-feed#readme",
+  "dependencies": {
+    "facebook-node": "0.0.3",
+    "facebook-node-sdk": "^0.2.0",
+    "facebook-search": "^0.1.1",
+    "youtube-search": "^1.0.4"
+  }
+}
